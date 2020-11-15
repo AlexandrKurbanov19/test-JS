@@ -208,7 +208,7 @@ a.card-link {
 .card__metro::before {
   content: "";
   position: absolute;
-  background: url(/moscow-metro-logo.svg);
+  background: url(moscow-metro-logo.svg);
   width: 20px;
   height: 20px;
   top: -3px;
@@ -273,7 +273,7 @@ a.card-link {
   width: 24px;
   height: 24px;
   position: absolute;
-  background: url(/up-arrow.png) no-repeat;
+  background: url(up-arrow.png) no-repeat;
   background-size: initial;
   background-position: center;
   right: 1px;
