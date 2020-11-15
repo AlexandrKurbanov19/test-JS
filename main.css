@@ -417,7 +417,7 @@ checkbox */
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  background-image: url(/tick.svg);
+  background-image: url(tick.svg);
   background-size: initial;
   background-position: center center;
 }
